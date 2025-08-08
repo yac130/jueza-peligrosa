@@ -268,5 +268,8 @@ span.leyenda-foto{
     .main p{
         font-size: 1.3rem;
     }
+    .main-gris{
+        padding: 40px 20px;
+    }
 
 }
